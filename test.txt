@@ -4,7 +4,8 @@
 4
 test1 branck: dev2 11
 rebase
-cherry-pick 1
-cherry-pick 2
+meta
+meta master
 
-cherry test
+append master
+1
